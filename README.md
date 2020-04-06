@@ -1,1 +1,1 @@
-# halfTickProject
+# HalfTickProject
